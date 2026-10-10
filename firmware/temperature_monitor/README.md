@@ -12,7 +12,11 @@ Status: Complete
 - Converted readings to Fahrenheit
 - Displayed readings on a 16x2 I2C LCD
 
-![Prototype 1](images/prototype_1.jpg)
+### Prototype Photos
+
+![Prototype 1 - Photo 1](Prototype_1_setup.jpeg)
+
+![Prototype 1 - Photo 2](Prototype_1_heat_response.jpeg)
 
 
 ### Prototype 2 — Temperature Alerts
