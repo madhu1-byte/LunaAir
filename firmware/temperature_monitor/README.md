@@ -14,9 +14,9 @@ Status: Complete
 
 ### Prototype Photos
 
-![Prototype 1 - Photo 1](Prototype_1_setup.jpeg)
+![Prototype 1 - Photo 1](images/Prototype_1_setup.jpeg)
 
-![Prototype 1 - Photo 2](Prototype_1_heat_response.jpeg)
+![Prototype 1 - Photo 2](images/Prototype_1_heat_response.jpeg)
 
 
 ### Prototype 2 — Temperature Alerts
