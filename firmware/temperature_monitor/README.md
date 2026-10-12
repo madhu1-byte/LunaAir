@@ -41,11 +41,11 @@ Status: Planned
   <tr>
     <td align="center">
       <img src="images/Prototype_2_setup.jpeg" width="250"><br>
-      <b>Initial Setup</b>
+      <b>Setup</b>
     </td>
     <td align="center">
       <img src="images/Prototype_2_alert.jpeg" width="250"><br>
-      <b>Temperature Response</b>
+      <b>Temperature Alert</b>
     </td>
   </tr>
 </table>
