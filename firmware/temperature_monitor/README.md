@@ -14,13 +14,6 @@ Status: Complete
 
 ### Prototype Photos
 
-![Prototype 1 - Photo 1](images/Prototype_1_setup.jpeg)
-
-![Prototype 1 - Photo 2](images/Prototype_1_heat_response.jpeg)
-
-<img src="images/Prototype_1_setup.jpeg" width="250">
-<img src="images/Prototype_1_heat_response.jpeg" width="250">
-
 <table>
   <tr>
     <td align="center">
