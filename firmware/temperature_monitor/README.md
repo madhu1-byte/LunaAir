@@ -18,6 +18,21 @@ Status: Complete
 
 ![Prototype 1 - Photo 2](images/Prototype_1_heat_response.jpeg)
 
+<img src="images/Prototype_1_setup.jpeg" width="250">
+<img src="images/Prototype_1_heat_response.jpeg" width="250">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/Prototype_1_setup.jpeg" width="250"><br>
+      <b>Initial Setup</b>
+    </td>
+    <td align="center">
+      <img src="images/Prototype_1_heat_response.jpeg" width="250"><br>
+      <b>Temperature Response</b>
+    </td>
+  </tr>
+</table>
 
 ### Prototype 2 — Temperature Alerts
 Status: Planned
