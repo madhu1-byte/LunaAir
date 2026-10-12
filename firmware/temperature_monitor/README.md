@@ -12,7 +12,7 @@ Status: Complete
 - Converted readings to Fahrenheit
 - Displayed readings on a 16x2 I2C LCD
 
-### Prototype Photos
+### Prototype 1 Photos
 
 <table>
   <tr>
@@ -34,3 +34,18 @@ Status: Planned
 - Improve measurement accuracy
 - Define temperature thresholds
 - Trigger alerts when thresholds are exceeded
+
+### Prototype 1 Photos
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/Prototype_2_setup.jpeg" width="250"><br>
+      <b>Initial Setup</b>
+    </td>
+    <td align="center">
+      <img src="images/Prototype_2_alert.jpeg" width="250"><br>
+      <b>Temperature Response</b>
+    </td>
+  </tr>
+</table>
